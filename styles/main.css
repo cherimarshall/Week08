@@ -1,0 +1,23 @@
+button.position-absolute {
+    right:1rem;
+    top:1rem;
+    z-index:1;
+}
+
+ul.position-absolute {
+    
+    right:1rem;
+    z-index:1;
+}
+
+
+h1 {
+    background-color: pink;
+    color: white;
+    font-family: cursive; 
+}
+
+p {
+    font-weight:200;
+    font-family:sans-serif;
+}
